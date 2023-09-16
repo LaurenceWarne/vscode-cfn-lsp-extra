@@ -3,7 +3,7 @@
   "repository": "https://github.com/LaurenceWarne/vscode-cfn-lsp-extra",
   "description": "A cloudformation language server",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "categories": [],
   "keywords": [
     "multi-root ready"
